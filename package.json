@@ -1,0 +1,21 @@
+{
+  "name": "tsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.9",
+    "inquirer": "^8.2.6",
+    "nodemon": "^2.0.20",
+    "ts-node": "^8.10.2"
+  },
+  "dependencies": {
+    "consola": "2.15.3",
+    "typescript": "^5.2.2"
+  }
+}
